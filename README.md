@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thx104
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning a lot :)
-- 💞️ I’m looking to collaborate with nobody right now :(
+- 💞️ I’m looking to collaborate with myself :)
 - 📫 How to reach me 
 
 <!---
